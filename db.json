@@ -7,10 +7,6 @@
     "v": "app/p9game",
     "d": "BR",
     "s": "jsBridge",
-    "sd": "Appsflyer",
-    "sdsd": 12,
-    "ew": "s",
-    "wsw": 23,
-    "cc": 2
+    "sd": "Appsflyer"
     }
 }
